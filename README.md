@@ -21,7 +21,7 @@ else:
 ```
 
 ```javascript
-    console.log("Javascript is my 2nd fave!")
+console.log("Javascript is my 2nd fave!")
 ```
  
 ## Skill Set 
