@@ -16,7 +16,12 @@ fave_language = True
 
 if fave_language:
     print("Python!")
+else:
+    print("JavaScript!")
+```
 
+```javascript
+    console.log("Javascript is my 2nd fave!")
 ```
  
 ## Skill Set 
